@@ -1,6 +1,6 @@
 # Cloudflare Aura Starter Template
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Plasma1345/aura-landing)
 
 This project is a comprehensive full-stack starter template designed for building modern web applications on the Cloudflare ecosystem. It leverages Cloudflare Workers for a powerful serverless backend and Cloudflare Pages for a blazing-fast frontend, all integrated seamlessly.
 
@@ -134,7 +134,7 @@ This command compiles your frontend assets and prepares your Worker for deployme
 
 This project is optimized for deployment on Cloudflare Pages, which automatically connects to your Cloudflare Workers.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Plasma1345/aura-landing)
 
 1.  **Configure Wrangler**: Ensure your `wrangler.jsonc` file is correctly configured for your project. The provided `wrangler.jsonc` is set up for a Cloudflare Pages project with a Worker.
 
